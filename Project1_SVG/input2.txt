@@ -1,0 +1,25 @@
+rect 0 0 800 800 white black 10
+rect 0 0 400 800 black white 10
+ellipse 400 400 100 220 rgb(255,228,181)
+ellipse 350 300 25 10 rgb(0,191,255)
+ellipse 500 300 25 10 rgb(0,191,255)
+rect 400 500 75 75 red black 4
+line 434 180 380 380 6 white
+line 390 190 370 372 3 white
+line 410 185 252 378 6 white
+line 430 185 391 369 6 white
+line 460 186 332 383 5 white
+line 480 183 354 384 6 white
+line 450 182 264 386 3 white
+line 337 181 270 382 6 white
+line 386 188 292 382 5 white
+line 432 183 600 385 6 white
+line 230 182 562 386 5 white
+line 435 179 584 387 6 white
+line 431 178 496 382 6 white
+line 332 187 470 385 5 white
+line 323 182 570 386 4 white
+line 366 181 600 382 6 white
+line 378 180 550 386 5 white
+circle 400 400 15 black 5 red
+
